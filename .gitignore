@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+answers.R
+.DS_Store
+*.Rproj
+HW2_template.Rproj
+Homework_2_template_GC.Rproj
+0_HW2_ans.Rmd
+0_HW2_ans.html
